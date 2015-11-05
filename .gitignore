@@ -1,0 +1,12 @@
+application.log*
+.settings
+.idea/
+*.iml
+*.iws
+/build/
+/bin/
+target/
+*.jar
+*.war
+*.ear
+*.db
